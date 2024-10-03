@@ -1,9 +1,9 @@
 import React from 'react'
 import Card from '../Components/Card'
-import hoddie1 from "../assets/images/hoodie3.png";
-import hoddie2 from "../assets/images/hoodie2.png"
-import tshirt from "../assets/images/tshirt.png"
-import tupi from "../assets/images/tupi.png"
+import hoddie1 from "../assets/images/hoodie3.webp";
+import hoddie2 from "../assets/images/hoodie2.webp"
+import tshirt from "../assets/images/tshirt.webp"
+import tupi from "../assets/images/tupi.webp"
 export default function Products() {
 
     const products = [
