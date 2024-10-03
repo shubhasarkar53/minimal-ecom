@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-xl font-bold;
+  }
+  h2 {
+    @apply text-2md font-bold;
+  }
+  h3 {
+    @apply text-md font-semibold;
+  }
+  .sub-heading{
+    @apply text-sub font-semibold;
+  }
+  .logo-color-primary{
+    @apply text-[#588CF2]
+  }
+  .text-color-primary{
+    @apply text-[#000000]
+  }
+
+}
